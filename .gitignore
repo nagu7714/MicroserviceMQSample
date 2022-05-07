@@ -1,0 +1,12 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/.vs
+/Shared.Models/bin/Debug/netcoreapp3.1
+/Shared.Models/obj/Debug/netcoreapp3.1
+/Shared.Models/obj
+/Ticketing.Microservice/bin/Debug/netcoreapp3.1
+/Ticketing.Microservice/obj
+/TicketProcessor.Microservice/bin/Debug/netcoreapp3.1
+/TicketProcessor.Microservice/obj
